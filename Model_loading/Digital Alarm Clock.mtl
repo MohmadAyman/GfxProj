@@ -1,0 +1,39 @@
+# Max2Mtl Version 4.0 Mar 10th, 2001
+#
+# Multi/Sub Material__35 (4) to come 
+#
+newmtl ALBLACK
+Ka  0.4 0.4 0.4
+Kd  0.4 0.4 0.4
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  6.1
+illum 2
+#
+newmtl ALBUTTON
+Ka  0.5 0.5 0.5
+Kd  0.5 0.5 0.5
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  2.2
+illum 2
+#
+newmtl ALSHINY
+Ka  0.0 0.0 0.0
+Kd  0.0 0.0 0.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  6.5
+illum 2
+#
+newmtl 1DIGI
+Ka  0.0 0.0 0.0
+Kd  0.0 0.0 0.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  6.5
+illum 2
+#
+# Multi/Sub Material__35 done 
+#
+# EOF
